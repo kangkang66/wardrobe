@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/add/add",
+    "pages/wear/wear"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "我的衣橱",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#000000",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon/tabbar_document.png",
+        "selectedIconPath": "static/icon/tabbar_document_select.png",
+        "text": "物品"
+      },
+      {
+        "pagePath": "pages/wear/wear",
+        "iconPath": "static/icon/tabbar_setting.png",
+        "selectedIconPath": "static/icon/tabbar_setting_select.png",
+        "text": "穿搭"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

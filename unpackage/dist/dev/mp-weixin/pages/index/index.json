@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "物品列表",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-grid": "/uni_modules/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uni_modules/uview-ui/components/u-grid-item/u-grid-item",
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image",
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text"
+  }
+}
